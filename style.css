@@ -819,6 +819,27 @@ h4 {
     border-color: #364577!important;
 }
 
+.row-col-sm-4  p {
+    font-size: 20px;
+    font-weight: 550;
+    text-align: center;
+    margin: 15px;
+    
+}
+.partenaires {
+    display: flex;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    
+}
+.partenaires-justify {
+    margin:auto; 
+    font-size: 18px;
+    font-weight: 950;
+    
+
+}
+
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
 }
