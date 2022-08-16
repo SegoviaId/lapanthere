@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #FFF;
+   /* background: #FFF;*/
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: #333;
 }
 
 .d-bloc .a-btn:hover,
@@ -732,6 +732,7 @@ h3 {
 }
 .font22px {
     font-size: 22px;
+    font-weight: 550;
 }
 .med-width-whitespace {
     max-width: 800px;
@@ -784,19 +785,18 @@ h4 {
 .bgc-white {
     background-color: #FFFFFF;
 }
-/*
+
 .bgc-dark-slate-blue {
     background-color: #364577;
 }
-*/
+
 .bgc-atomic-tangerine {
-    background-color: #e0703c;
+    background-color: #e0703cca;
 }
 
 .tc-white {
-    color: #FFFFFF!important;
+    color: #ffffffd6!important;
     font-size: 22px;
-    font-weight: bolder;
 }
 
 .btn-atomic-tangerine {
