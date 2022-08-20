@@ -6,7 +6,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-.page-background {
+.bgc-atomic-tangerine2 {
 
     background: #c89191;
 }
@@ -727,6 +727,7 @@ h2 {
     font-weight: 550;
    
 }
+
 
 h3 {
     font-size: 15px;
