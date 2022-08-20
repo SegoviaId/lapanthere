@@ -743,6 +743,7 @@ h3 {
     font-size: 22px;
     font-weight: 550;
 }
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
@@ -803,14 +804,22 @@ h4 {
     background-color: #e86c3291;
 }
 
+
 .tc-white {
     color: #ffffffd6!important;
+    font-size: 22px;
+}
+.tc-whitefff {
+    color: #FFF;
     font-size: 22px;
 }
 
 .btn-atomic-tangerine {
     background: #e0703cee;
-    color: #FFFFFF!important;
+    color: #FFF;
+}
+.btn-atomic-tangerine-2 {
+    background-color: #e0703c;
 }
 
 .btn-atomic-tangerine:hover {
