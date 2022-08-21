@@ -1094,10 +1094,7 @@ h4 {
         padding-right: 0;
     }
 }
-.img_travail {
 
-    background-image: url(./img/4resized.jpg);
-}
 
 
 @media (max-width: 767px) {
@@ -1118,7 +1115,7 @@ h4 {
     padding: 20px;
     }
     .hero-bloc-text {
-        font-size: 30px;
+        font-size: 24px;
         font-weight: bolder;
     }
 
