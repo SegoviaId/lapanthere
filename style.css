@@ -295,6 +295,7 @@ a:hover {
     font-size: 34px;
 }
 
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -707,7 +708,7 @@ p {
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 700;
 }
 
@@ -768,7 +769,7 @@ h4 {
 }
 
 .portfolio-thumb {
-    margin-bottom: 24px;
+    margin: auto;
     width: 270px;
     height: 270px;
 }
@@ -1098,4 +1099,26 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+
+    #bloc-1-hero h1 {
+        font-size: 32px;
+    }
+    .font22px {
+        font-size: 30px;
+
+    }
+    .social {
+        display: flex;
+    justify-content: center;
+    padding: 20px;
+    }
+    .hero-bloc-text {
+        font-size: 30px;
+        font-weight: bolder;
+    }
+
+    .bloc .container {
+            padding-left: 6px;
+            padding-right: 6px;
+        }
 }
