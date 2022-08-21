@@ -1094,6 +1094,11 @@ h4 {
         padding-right: 0;
     }
 }
+.img_travail {
+
+    background-image: url(./img/4resized.jpg);
+}
+
 
 @media (max-width: 767px) {
     .bloc-mob-center-text {
@@ -1101,7 +1106,7 @@ h4 {
     }
 
     #bloc-1-hero h1 {
-        font-size: 32px;
+        font-size: 30px;
     }
     .font22px {
         font-size: 30px;
@@ -1121,4 +1126,13 @@ h4 {
             padding-left: 6px;
             padding-right: 6px;
         }
+
+     .black-background {
+            padding: 40px 10px 40px 10px;
+        }
+    .bg-banniere {
+            background-image: url("img/small/agence-la-panthere_mobile.jpg");
+            object-fit: cover;
+        }
+
 }
